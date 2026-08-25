@@ -45,7 +45,6 @@
     </style>
 </head>
 <body>
-
     <!-- Nueva Carátula -->
     <header class="caratula">
         <h1>Trabajo Práctico N° 04</h1>

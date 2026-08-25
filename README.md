@@ -11,7 +11,7 @@
             margin: auto;
             padding: 20px;
             color: #333;
-        }
+}
 
 /* Estilo de la carátula */
         header.caratula {
@@ -45,7 +45,7 @@ code {
     </style>
 </head>
 <body>
-    <!-- Nueva Carátula -->
+    !-- Nueva Carátula --
     <header class="caratula">
         <h1>Trabajo Práctico N° 04</h1>
         <h2>Electricidad Básica y Aplicada</h2>

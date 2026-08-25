@@ -101,6 +101,5 @@
             <li>Intensidad (I) = V / RT = 10V / 1Ω = <strong>10 Amperios</strong></li>
         </ul>
     </section>
-
 </body>
 </html>

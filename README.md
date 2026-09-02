@@ -4,55 +4,27 @@
     <meta charset="UTF-8">
     <title>TP04 - Electricidad Básica</title>
     <style> 
-      body {
-        font-family: 'Segoe UI', sans-serif;
-            line-height: 1.6;
-            max-width: 800px;
-            margin: auto;
-            padding: 20px;
-            color: #333;
-           }
+      body {font-family: 'Segoe UI', sans-serif; line-height: 1.6; max-width: 800px; margin: auto; padding: 20px; color: #333;}
 
   /* Estilo de la carátula */
-        header.caratula {
-            text-align: center;
-            border: 2px solid #333;
-            padding: 40px;
-            margin-bottom: 40px;
-            background-color: #f9f9f9;
-        }
+        header.caratula {text-align: center; border: 2px solid #333; padding: 40px; margin-bottom: 40px; background-color: #f9f9f9;}
 
-   section {
-            margin-bottom: 30px;
-            border-bottom: 1px solid #ccc;
-            padding-bottom: 20px;
-        }
+   section {margin-bottom: 30px;border-bottom: 1px solid #ccc; padding-bottom: 20px;}
 
-   .ohm-triangle {
-            text-align: center;
-            font-size: 1.5em;
-            border: 2px solid #333;
-            width: 150px;
-            margin: 10px auto;
-            padding: 10px;
-        }
+   .ohm-triangle {text-align: center; font-size: 1.5em; border: 2px solid #333; width: 150px; margin: 10px auto; padding: 10px;}
 
-   code {
-            background: #f4f4f4;
-            padding: 2px 5px;
-            border-radius: 4px;
-        }
+   code {background: #f4f4f4; padding: 2px 5px; border-radius: 4px;}
     </style>
     </head>
-    <body> 
-    <!-- Nueva Carátula -->
+    <body>
+    <!--Nueva Carátula-->
     <header class="caratula">
         <h1>Trabajo Práctico N° 04</h1>
         <h2>Electricidad Básica y Aplicada</h2>
         <br>
         <p><strong>Alumnos:</strong> Lazarte uriel y Condori candy</p>
-        <p><strong>Materia:</strong> </p>
-        <p><strong>Profesor:</strong> </p>
+        <p><strong>Materia:</strong> Instalación, Mantenimiento y reparación de redes informáticas.</p>
+        <p><strong>Profesor:</strong> Gonzalo Arial Carbajal</p>
         <p><strong>Fecha:</strong> 22 de agosto de 2026</p>
     </header>
 
